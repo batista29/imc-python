@@ -1,1 +1,1 @@
-# imc-python
+# Primeiro script em python
