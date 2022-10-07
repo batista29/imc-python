@@ -1,6 +1,6 @@
 # Primeiro script em python
 
-* Este projeto é uma criação de e-commerce feito com JavaScript (frontend e backend) e mysql (database), o objetivo do projeto é a utilização de novas funções nas devidas linguagens.
+* Primeiro script em python com intuito de conhecer os comandos da linguagem.
 
 ## Linguagem
 
